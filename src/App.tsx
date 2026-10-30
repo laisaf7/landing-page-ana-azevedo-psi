@@ -1,16 +1,15 @@
-import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
 import Services from './components/Services';
-import HelpYou from './components/HelpYou';
-import HowItWorks from './components/HowItWorks';
+import HelpYou from './components/Helpyou';
+import HowItWorks from './components/Howitworks';
 import Approach from './components/Approach';
 import Differentials from './components/Differentials';
 import FAQ from './components/Faq';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import WhatsAppButton from './components/WhatsAppButton';
+import WhatsAppButton from './components/Whatsappbutton';
 
 export default function App() {
   return (

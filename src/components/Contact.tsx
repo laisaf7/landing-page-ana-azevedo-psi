@@ -1,4 +1,3 @@
-import React from 'react';
 import { MapPin, Clock, Smartphone } from 'lucide-react';
 import Reveal from './Reveal';
 import { WhatsAppIcon, InstagramIcon } from './Icons';

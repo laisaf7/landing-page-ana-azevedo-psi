@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import Reveal from './Reveal';
 import { prefersReducedMotion } from '../utils/motion';
 import natureImg from '../assets/mulher-natureza.webp';

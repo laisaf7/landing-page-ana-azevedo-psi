@@ -1,4 +1,3 @@
-import React from 'react';
 import Button from './Button';
 import profileImg from '../assets/Ana-Azevedo.jpeg';
 import { scrollToSection } from '../utils/Scrolltosection';

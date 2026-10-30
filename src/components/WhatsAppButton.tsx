@@ -1,4 +1,3 @@
-import React from 'react';
 import { WhatsAppIcon } from './Icons';
 import { whatsappUrl } from '../config/contact';
 

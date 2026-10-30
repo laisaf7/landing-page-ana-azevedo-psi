@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useInView } from '../hooks/useInView';
 import { prefersReducedMotion } from '../utils/motion';
 

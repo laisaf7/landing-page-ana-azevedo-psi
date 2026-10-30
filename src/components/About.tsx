@@ -1,6 +1,5 @@
-import React from 'react';
 import Reveal from './Reveal';
-import CountUp from './CountUp';
+import CountUp from './Countup';
 import profileImg2 from '../assets/Ana-Azevedo-2.jpeg';
 
 export default function About() {

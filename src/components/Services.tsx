@@ -1,6 +1,5 @@
-import React from 'react';
 import { Leaf, Lectern, BrainCircuit, User, Heart, RefreshCw } from 'lucide-react';
-import ServiceCard from './ServiceCard';
+import ServiceCard from './Servicecard';
 import Reveal from './Reveal';
 
 const SERVICES = [
